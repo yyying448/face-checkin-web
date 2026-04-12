@@ -16,3 +16,14 @@
 * `web_attendance.py`: 网页端主程序
 * `face_db/encodings.pkl`: 预提取的人脸特征库文件
 * `yolo11n-face.pt`: YOLO 人脸检测模型
+
+## 📺 运行效果展示
+
+### 1. 实时检测界面
+![检测界面预览](![demo_ui](https://github.com/user-attachments/assets/cf3b254d-d272-4697-a4c3-3131d4cdf5dc)
+)
+![result1](https://github.com/user-attachments/assets/3f2e1971-3b06-4a73-827b-99a370200a35)
+
+### 2. 识别结果统计
+![签到成功统计](![result2](https://github.com/user-attachments/assets/402d8e3b-413c-48f7-ab23-66507a713cae)
+)
