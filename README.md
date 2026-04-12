@@ -28,4 +28,5 @@
 
 ### 3. 最终识别结果
 系统准确识别出人脸，并自动在签到记录中添加姓名、日期和精确时间。
-![识别结果展示](https://github.com/user-attachments/assets/cbd8c813-b170-428a-947d-c338cc7bb097)
+![识别结果展示](https://github.com/user-attachments/assets/8d16a7d0-2860-4ea2-8918-98b8040f1cdb)
+
