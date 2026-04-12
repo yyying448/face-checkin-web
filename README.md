@@ -17,13 +17,16 @@
 * `face_db/encodings.pkl`: 预提取的人脸特征库文件
 * `yolo11n-face.pt`: YOLO 人脸检测模型
 
-## 📺 运行效果展示
+## 📸 项目效果展示
 
-### 1. 实时检测界面
-![检测界面预览](![demo_ui](https://github.com/user-attachments/assets/cf3b254d-d272-4697-a4c3-3131d4cdf5dc)
-)
-![result1](https://github.com/user-attachments/assets/3f2e1971-3b06-4a73-827b-99a370200a35)
+### 1. 系统主界面
+支持实时开启摄像头。
+![网页主界面](docs/ui_main.png)
 
-### 2. 识别结果统计
-![签到成功统计](![result2](https://github.com/user-attachments/assets/402d8e3b-413c-48f7-ab23-66507a713cae)
-)
+### 2. 实时识别与侧边栏统计
+侧边栏会实时更新当前已签到的人数和名单。
+![运行界面](docs/result1.png)
+
+### 3. 最终识别结果
+系统准确识别出人脸，并自动在签到记录中添加姓名、日期和精确时间。
+![识别结果展示](docs/result_record.png)
