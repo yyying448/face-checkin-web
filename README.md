@@ -18,18 +18,14 @@
 * `yolo11n-face.pt`: YOLO 人脸检测模型
 
 ## 📸 项目效果展示
-
 ### 1. 系统主界面
 支持实时开启摄像头。
-![网页主界面](![ui_main](https://github.com/user-attachments/assets/b5eeda43-cba3-4328-b92b-895c652bb097)
-)
+![网页主界面](https://github.com/user-attachments/assets/b5eeda43-cba3-4328-b92b-895c652bb097)
 
 ### 2. 实时识别与侧边栏统计
 侧边栏会实时更新当前已签到的人数和名单。
-![运行界面](![result1](https://github.com/user-attachments/assets/a7d0e659-a473-4000-995c-e7bb3000ba2c)
-)
+![运行界面](https://github.com/user-attachments/assets/a7d0e659-a473-4000-995c-e7bb3000ba2c)
 
 ### 3. 最终识别结果
 系统准确识别出人脸，并自动在签到记录中添加姓名、日期和精确时间。
-![识别结果展示](![result_record](https://github.com/user-attachments/assets/cbd8c813-b170-428a-947d-c338cc7bbd3a)
-)
+![识别结果展示](https://github.com/user-attachments/assets/cbd8c813-b170-428a-947d-c338cc7bb097)
