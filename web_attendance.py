@@ -1,4 +1,8 @@
+import os
 import streamlit as st
+
+# 在页面上打印当前目录下的文件列表
+st.write("当前目录下的文件有：", os.listdir("."))
 import cv2
 import numpy as np
 from PIL import Image
